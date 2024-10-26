@@ -10,7 +10,7 @@ Atualmente possui as seções:
 - Contato
 
 
-* Site feito usando Vite+React com three.js.
-  --TailwindCSS
-  --JavaScript
-  --HTML
+### Site feito usando Vite+React com three.js.
+  -TailwindCSS
+  -JavaScript
+  -HTML
