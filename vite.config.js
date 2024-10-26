@@ -18,13 +18,7 @@ resolve: {
         '.mjs',
         '.ts',
         '.tsx',
-        '.vue',
     ],
-},
-server: {
-    port: 3000,
-    open: true,
-    cors: true,
 },
 base: '/',
 })
