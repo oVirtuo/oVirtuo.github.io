@@ -19,7 +19,7 @@ const Hero = () => {
           </h1>
           <p className={`${style.heroSubText} mt-2 text-white-100`}>
             Sou estudante de ADS e atualmente estou me desenvolvendo como profissional, 
-            praticante de metodologias Front-end e Back-end, bem como estudando estátistica 
+            praticante de metodologias Front-end e Back-end, bem como estudando técnicas 
             para análise de dados.
 
           </p>
