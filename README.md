@@ -11,3 +11,6 @@ Atualmente possui as seções:
 
 
 * Site feito usando Vite+React com three.js.
+  --TailwindCSS
+  --JavaScript
+  --HTML
